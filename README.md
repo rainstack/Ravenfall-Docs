@@ -207,5 +207,3 @@ Some items are not craftable and are only available as random drops from a Raid 
  | Ultimate Tuna Slapper | 44 | 44 | - | 30 | - | No |
  | Pickle Rick | 44 | 44 | - | - | - | No |
  | Ghrims Stick | 44 | 44 | - | - | - | No |
-
- [Back to Top](#ravenfall-logo)
