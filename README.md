@@ -18,6 +18,7 @@ Preliminary crafting guide / item documentation for Ravenfall, the Twitch Idle G
         * [Gloves](#gloves)
         * [Leggings](#leggings)
         * [Boots](#boots)
+* [Non-Craftable Items](#non-craftable-items)
 
 # Crafting Overview
 Training the Crafting skill unlocks your ability to craft powerful weapons, armor, and other accessories. In order to train this skill, you must have wood and/or ore available.
@@ -206,3 +207,5 @@ Some items are not craftable and are only available as random drops from a Raid 
  | Ultimate Tuna Slapper | 44 | 44 | - | 30 | - | No |
  | Pickle Rick | 44 | 44 | - | - | - | No |
  | Ghrims Stick | 44 | 44 | - | - | - | No |
+
+ [Back to Top](#ravenfall-logo)
