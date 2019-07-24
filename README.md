@@ -208,4 +208,4 @@ Some items are not craftable and are only available as random drops from a Raid 
  | Pickle Rick | 44 | 44 | - | - | - | No |
  | Ghrims Stick | 44 | 44 | - | - | - | No |
 
- [Back to Top](#ravenfall-logo)
+ [Back to Top](#!ravenfall-logo)
