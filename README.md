@@ -59,7 +59,9 @@ You must be at the crafting table in order to craft items. You can do this by te
 ```
 !train crafting
 ```
-*Insert text about how the game picks the most powerful items that the character can craft based on the character level after getting some clarification from zerratar*
+**Important:** The game will attempt to create the most powerful item for which you meet all the requirements. For example, with Crafting 99 and Attack 1, crafting a weapon would only yield an Iron 2-Handed Sword. Make sure you meet the stat requirements.
+
+*Note:* If you meet the stat requirements but don't have enough Ore and/or Wood, then you'll receive a warning. You don't have to worry about it crafting a less powerful item because you ran out of resources.
 
 ## Craftable Items
 * [Weapons](#weapons)
