@@ -61,7 +61,17 @@ You must be at the crafting table in order to craft items. You can do this by te
 ```
 **Important:** The game will attempt to create the most powerful item for which you meet all the requirements. For example, with Crafting 99 and Attack 1, crafting a weapon would only yield an Iron 2-Handed Sword. Make sure you meet the stat requirements.
 
+To check your character stats without waiting for the game to cycle to your character, you can use:
+```
+!stats
+```
+
 *Note:* If you meet the stat requirements but don't have enough Ore and/or Wood, then you'll receive a warning. You don't have to worry about it crafting a less powerful item because you ran out of resources.
+
+To check the amount of resources on hand, including wood and ore, without waiting for the game to cycle to your character, you can use:
+```
+!res
+```
 
 ## Craftable Items
 * [Weapons](#weapons)
