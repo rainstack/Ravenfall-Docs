@@ -124,7 +124,7 @@ To check the amount of resources on hand, including wood and ore, without waitin
  | --- | --- | --- | --- |:---:| ---:| ---:|
  | Ring of Combat | 2 | 5 | 2 | 20 | 5000 | 5000 | 
  | Ring of Combat II | 5 | 7 | 5 | 40 | 30000 | 30000 | 
- | Ring of Combat III | 12 | 15 | 12 | 65 | 0*? | 0*? | 
+ | Ring of Combat III | 12 | 15 | 12 | 65 | 75000 | 75000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
