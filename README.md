@@ -186,7 +186,7 @@ To check the amount of resources on hand, including wood and ore, without waitin
  | Steel Plate Mail Legs | 16 | 46 | 5 | 700 | 700 | 
  | Mithril Plate Mail Legs | 22 | 66 | 20 | 5000 | 5000 | 
  | Adamantite Plate Mail Legs | 31 | 86 | 30 | 75000 | 75000 | 
- | Rune Plate Mail Legs | 49 | 99 | - | 300000 | 300000 | 
+ | Rune Plate Mail Legs | 49 | 99 | 40 | 300000 | 300000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
