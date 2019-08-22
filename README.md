@@ -1,6 +1,7 @@
 # ![Ravenfall Logo](/images/ravenfall_logo.png)
 Preliminary crafting guide / item documentation for Ravenfall, the Twitch Idle Game by [Zerratar](https://www.twitch.tv/zerratar).
 
+* [Training](#training)
 * [Crafting Overview](#crafting-overview)
     * [Preparing to Train Crafting](#preparing-to-train-crafting)
         * [Gathering Required Resources](#gathering-required-resources)
@@ -19,6 +20,19 @@ Preliminary crafting guide / item documentation for Ravenfall, the Twitch Idle G
         * [Leggings](#leggings)
         * [Boots](#boots)
 * [Non-Craftable Items](#non-craftable-items)
+
+# Training
+Train a skill using `!train <skill>`. The following skills can be trained:
+- atk
+- def
+- str
+- crafting
+- woodcutting
+- mining
+- fishing
+- farming
+
+You can also train atk, def, and str simultaneously using `!train all`.
 
 # Crafting Overview
 Training the Crafting skill unlocks your ability to craft powerful weapons, armor, and other accessories. In order to train this skill, you must have wood and/or ore available.
