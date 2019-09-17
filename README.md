@@ -105,14 +105,16 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Aim Power | Weapon Power | Crafting Requirement | Attack Requirement | Ore | Wood | 
  | --- | --- | --- |:---:|:---:| ---:| ---:|
- | Bronze Long Sword | 7 | 7 | 6 | 1 | 70 | 70 | 
- | Bronze 2-Handed Sword | 10 | 10 | 14 | 1 | 100 | 100 | 
- | Iron 2-Handed Sword | 14 | 14 | 29 | 1 | 1400 | 1400 | 
- | Steel Long Sword | 16 | 16 | 36 | 5 | 160 | 160 | 
- | Steel 2-Handed Sword | 22 | 22 | 44 | 5 | 2200 | 2200 | 
- | Mithril 2-Handed Sword | 31 | 31 | 64 | 20 | 31000 | 31000 | 
- | Adamantite 2-Handed Sword | 44 | 44 | 84 | 30 | 44000 | 44000 | 
- | Rune 2-Handed Sword | 70 | 70 | 99 | 40 | 700000 | 700000 | 
+ | Bronze Sword | 7 | 7 | 6 | 1 | 70 | 70 | 
+ | Bronze 2H Sword | 10 | 10 | 14 | 1 | 100 | 100 | 
+ | Iron 2H Sword | 14 | 14 | 29 | 1 | 1400 | 1400 | 
+ | Steel Sword | 16 | 16 | 36 | 5 | 160 | 160 | 
+ | Steel 2H Sword | 22 | 22 | 44 | 10 | 2200 | 2200 | 
+ | Mithril 2H Sword | 31 | 31 | 64 | 30 | 31000 | 31000 | 
+ | Adamantite 2H Sword | 44 | 44 | 84 | 50 | 44000 | 44000 | 
+ | Rune 2H Sword | 70 | 70 | 99 | 70 | 700000 | 700000 | 
+ | Dragon 2H Sword | 100 | 100 | 130 | 100 | 5000000 | 5000000 | 
+ | Ultima 2H Sword | 150 | 150 | 170 | 120 | 100000000 | 100000000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
@@ -150,12 +152,12 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Armor Power | Crafting Requirement | Defense Requirement | Ore | Wood | 
  | --- | --- |:---:|:---:| ---:| ---:|
- | Large Bronze Helmet | 4 | 7 | 1 | 400 | 400 | 
- | Large Iron Helmet | 6 | 22 | - | 600 | 600 | 
- | Large Steel Helmet | 9 | 37 | 5 | 900 | 900 | 
- | Large Mithril Helmet | 13 | 57 | 20 | 13000 | 13000 | 
- | Large Adamantite Helmet | 19 | 77 | 30 | 19000 | 19000 | 
- | Large Rune Helmet | 30 | 92 | 40 | 300000 | 300000 | 
+ | Bronze Helmet | 4 | 7 | 1 | 400 | 400 | 
+ | Iron Helmet | 6 | 22 | - | 600 | 600 | 
+ | Steel Helmet | 9 | 37 | 10 | 900 | 900 | 
+ | Mithril Helmet | 13 | 67 | 30 | 13000 | 13000 | 
+ | Adamantite Helmet | 19 | 77 | 50 | 19000 | 19000 | 
+ | Rune Helmet | 30 | 92 | 70 | 300000 | 300000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
@@ -165,12 +167,12 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Armor Power | Crafting Requirement | Defense Requirement | Ore | Wood | 
  | --- | --- |:---:|:---:| ---:| ---:|
- | Bronze Plate Mail Body | 14 | 18 | - | 1400 | 1400 | 
- | Iron Plate Mail Body | 20 | 33 | - | 15000 | 15000 | 
- | Steel Plate Mail Body | 31 | 48 | 5 | 31000 | 31000 | 
- | Mithril Plate Mail Body | 44 | 68 | 20 | 40000 | 40000 | 
- | Adamantite Plate Mail Body | 63 | 88 | 30 | 75000 | 75000 | 
- | Rune Plate Mail Body | 80 | 99 | 40 | 300000 | 300000 | 
+ | Bronze Chest | 14 | 18 | - | 1400 | 1400 | 
+ | Iron Chest | 20 | 33 | - | 15000 | 15000 | 
+ | Steel Chest | 31 | 48 | 10 | 31000 | 31000 | 
+ | Mithril Chest | 44 | 68 | 30 | 40000 | 40000 | 
+ | Adamantite Chest | 63 | 88 | 50 | 75000 | 75000 | 
+ | Rune Chest | 80 | 99 | 70 | 300000 | 300000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
@@ -180,12 +182,12 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Armor Power | Crafting Requirement | Defense Requirement | Ore | Wood | 
  | --- | --- |:---:|:---:| ---:| ---:|
- | Bronze Plate Gloves | 4 | 6 | - | 60 | 60 | 
- | Iron Plate Gloves | 7 | 18 | - | 200 | 200 | 
- | Steel Plate Gloves | 11 | 35 | 5 | 1000 | 1000 | 
- | Mithril Plate Gloves | 18 | 56 | 20 | 10000 | 10000 | 
- | Adamantite Plate Gloves | 26 | 76 | 30 | 30000 | 30000 | 
- | Rune Plate Gloves | 38 | 90 | 40 | 300000 | 300000 | 
+ | Bronze Gloves | 4 | 6 | - | 60 | 60 | 
+ | Iron Gloves | 7 | 18 | - | 200 | 200 | 
+ | Steel Gloves | 11 | 35 | 10 | 1000 | 1000 | 
+ | Mithril Gloves | 18 | 56 | 30 | 10000 | 10000 | 
+ | Adamantite Gloves | 26 | 76 | 50 | 30000 | 30000 | 
+ | Rune Gloves | 38 | 90 | 70 | 300000 | 300000 | 
 
   [Back to Craftable Item Index](#craftable-items)
 
@@ -195,12 +197,12 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Armor Power | Crafting Requirement | Defense Requirement | Ore | Wood | 
  | --- | --- |:---:|:---:| ---:| ---:|
- | Bronze Plate Mail Legs | 7 | 16 | - | 200 | 200 | 
- | Iron Plate Mail Legs | 10 | 31 | - | 300 | 300 | 
- | Steel Plate Mail Legs | 16 | 46 | 5 | 700 | 700 | 
- | Mithril Plate Mail Legs | 22 | 66 | 20 | 5000 | 5000 | 
- | Adamantite Plate Mail Legs | 31 | 86 | 30 | 75000 | 75000 | 
- | Rune Plate Mail Legs | 49 | 99 | 40 | 300000 | 300000 | 
+ | Bronze Leggings | 7 | 16 | - | 200 | 200 | 
+ | Iron Leggings | 10 | 31 | - | 300 | 300 | 
+ | Steel Leggings | 16 | 46 | 10 | 700 | 700 | 
+ | Mithril Leggings | 22 | 66 | 30 | 5000 | 5000 | 
+ | Adamantite Leggings | 31 | 86 | 50 | 75000 | 75000 | 
+ | Rune Leggings | 49 | 99 | 70 | 300000 | 300000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
@@ -210,12 +212,12 @@ To check the amount of resources on hand, including wood and ore, without waitin
 ```
  | Name | Armor Power | Crafting Requirement | Defense Requirement | Ore | Wood | 
  | --- | --- |:---:|:---:| ---:| ---:|
- | Bronze Plate Boots | 6 | 5 | - | 50 | 50 | 
- | Iron Plate Boots | 10 | 17 | - | 500 | 500 | 
- | Steel Plate Boots | 14 | 34 | 5 | 1000 | 1000 | 
- | Mithril Plate Boots | 23 | 55 | 20 | 10000 | 10000 | 
- | Adamantite Plate Boots | 32 | 75 | 30 | 50000 | 50000 | 
- | Rune Plate Boots | 45 | 89 | 40 | 300000 | 300000 | 
+ | Bronze Boots | 6 | 5 | - | 50 | 50 | 
+ | Iron Boots | 10 | 17 | - | 500 | 500 | 
+ | Steel Boots | 14 | 34 | 10 | 1000 | 1000 | 
+ | Mithril Boots | 23 | 55 | 30 | 10000 | 10000 | 
+ | Adamantite Boots | 32 | 75 | 50 | 50000 | 50000 | 
+ | Rune Boots | 45 | 89 | 70 | 300000 | 300000 | 
 
  [Back to Craftable Item Index](#craftable-items)
 
@@ -224,12 +226,19 @@ Some items are not craftable and are only available as random drops from a Raid 
 
  | Name | Aim Power | Weapon Power | Armor Power | Attack Requirement | Defense Requirement | Droppable |
  | --- | --- | --- | --- |:---:|:---:|:---:|
- | Black Plate Boots | - | - | 19 | - | 10 | Yes |
- | Black Plate Mail Body | - | - | 40 | - | 10 | Yes |
- | Black Plate Gloves | - | - | 16 | - | 10 | Yes |
- | Large Black Helmet | - | - | 12 | - | 10 | Yes |
- | Black Plate Mail Legs | - | - | 21 | - | 10 | Yes |
- | Black 2-Handed Sword | 28 | 22 | - | 10 | - | Yes |
- | Ultimate Tuna Slapper | 44 | 44 | - | 30 | - | No |
- | Pickle Rick | 44 | 44 | - | - | - | No |
+ | Black Boots | - | - | 19 | - | 20 | Yes |
+ | Black Chest | - | - | 40 | - | 20 | Yes |
+ | Black Gloves | - | - | 16 | - | 20 | Yes |
+ | Black Helmet | - | - | 12 | - | 20 | Yes |
+ | Black Leggings | - | - | 21 | - | 20 | Yes |
+ | Black 2H Sword | 28 | 22 | - | 20 | - | Yes |
  | Ghrims Stick | 44 | 44 | - | - | - | No |
+ | Ultimate Tuna Slapper | 44 | 44 | - | 30 | - | No |
+ | Pickle Rick | 45 | 45 | - | - | - | No |
+ | Pickle Rick II | 71 | 71 | - | 40 | - | No |
+ | Polar Bear Pet | - | - | - | - | - | Yes |
+ | Bear Pet | - | - | - | - | - | Yes |
+ | Wolf Pet | - | - | - | - | - | Yes |
+ | Red Panda Pet | - | - | - | - | - | Yes |
+ | Deer Pet | - | - | - | - | - | Yes |
+ | Fox Pet | - | - | - | - | - | Yes |
