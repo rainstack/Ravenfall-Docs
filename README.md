@@ -26,11 +26,14 @@ Train a skill using `!train <skill>`. The following skills can be trained:
 - atk
 - def
 - str
+- magic
+- ranged
 - crafting
 - woodcutting
 - mining
 - fishing
 - farming
+- sailing
 
 You can also train atk, def, and str simultaneously using `!train all`.
 
